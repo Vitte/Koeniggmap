@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "234716483618",
+    "firebase_url": "https://koenigmap-a549a.firebaseio.com",
+    "project_id": "koenigmap-a549a",
+    "storage_bucket": "koenigmap-a549a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234716483618:android:6cf09242b0a1200254fa7b",
+        "android_client_info": {
+          "package_name": "com.example.koenigmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234716483618-grfoorbnkqq2pdih3f7800a4h5hkbo2h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.koenigmap",
+            "certificate_hash": "22c8bc78563b2cb5802a50dd6476a864d2c4f94a"
+          }
+        },
+        {
+          "client_id": "234716483618-hnojp55o54lo0qbvrivrmb2n0viprqas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXtPvGaH3yGt7oF5loGmPjdUY2yprstCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234716483618-hnojp55o54lo0qbvrivrmb2n0viprqas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
